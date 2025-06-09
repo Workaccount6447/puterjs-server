@@ -2,6 +2,7 @@
   "name": "puterjs-server",
   "version": "1.0.0",
   "main": "server.js",
+  "type": "modules"
   "scripts": {
     "start": "node server.js"
   },
