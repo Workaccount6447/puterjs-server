@@ -1,0 +1,1 @@
+// Google Translate or LibreTranslate integration
