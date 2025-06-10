@@ -1,0 +1,1 @@
+// Formats messages per language
